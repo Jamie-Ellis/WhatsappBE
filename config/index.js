@@ -1,6 +1,6 @@
 const config = {
     db: {
-      url: 'localhost:27017',
+      url: 'mongodb+srv://jamie:<password>@whatsappbe.ugmqj.mongodb.net/test',
       name: 'whatsappdb'
     }
   }
