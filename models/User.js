@@ -15,7 +15,7 @@ const userSchema = new mongoose.Schema(
     firstName: String,
     lastName: String,
     type: String,
-    activeSockets: [String]
+    
   },
   {
     timestamps: true,
